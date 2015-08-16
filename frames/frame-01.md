@@ -2,7 +2,7 @@
 layout: frame
 game_number: 1
 frame_number: 1
-permalink: /1/1/
+permalink: /game-1/frame-1/
 
 
 event_date: 2015-09-01
