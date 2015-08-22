@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Strike Club!"
-date:   2015-08-13 13:12:20
+date:   2015-08-21 13:12:20
 categories: welcome
 ---
 
