@@ -5,6 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   What happens in Strike Club, stays in Strike Club
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.strikeclub-tacoma.com" # the base hostname & protocol for your site
+timezone: America/Los_Angeles
+
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
