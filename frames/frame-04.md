@@ -5,7 +5,7 @@ frame_number: 4
 permalink: /game-1/frame-4/
 
 
-event_date: 2015-12
+event_date: 2015-12-16
 organizer: "Jeff and Bill"
 ---
 
