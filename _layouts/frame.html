@@ -13,7 +13,11 @@ layout: default
   </article>
 
   <footer class="post-footer">
+    {% if page.frame_number == 10 %}
+    <h1>Don't forget to bring cash for Game {{ page.game_number | plus: 1 }}, Frame 1</h1>
+    {% else %}
     <h1>Don't forget to bring cash for Frame {{ page.frame_number | plus: 1 }}</h1>
+    {% endif %}
   </footer>
 
 </div>
