@@ -1,12 +1,10 @@
 ---
 layout: frame
 game_number: 1
-frame_number: 3
-permalink: /game-1/frame-3/
+frame_number: 7
 
-
-event_date: 2015-11-14
-organizer: John
+event_date: 2016-04
+organizer: Joe
 ---
 
 

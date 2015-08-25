@@ -16,7 +16,7 @@ markdown: kramdown
 collections:
   frames:
     output: true
-    permalink: /game:game/frame:frame
+    permalink: /:path/
     defaults:
       values:
         layout: frame

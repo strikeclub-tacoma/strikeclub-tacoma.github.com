@@ -2,8 +2,6 @@
 layout: frame
 game_number: 1
 frame_number: 8
-permalink: /game-1/frame-8/
-
 
 event_date: 2016-05
 organizer: Chuck
