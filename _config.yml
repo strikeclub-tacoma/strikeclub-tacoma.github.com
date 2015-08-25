@@ -12,3 +12,11 @@ timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
+
+collections:
+  frames:
+    output: true
+    permalink: /game:game/frame:frame
+    defaults:
+      values:
+        layout: frame
