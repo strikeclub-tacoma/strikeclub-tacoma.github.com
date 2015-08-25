@@ -5,7 +5,7 @@ frame_number: 3
 permalink: /game-1/frame-3/
 
 
-event_date: 2015-11
+event_date: 2015-11-14
 organizer: John
 ---
 
