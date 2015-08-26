@@ -3,7 +3,7 @@ layout: frame
 game_number: 1
 frame_number: 4
 
-event_date: "2015-12-16 (tentatively)"
+event_date: "2016-01-16 (tentatively)"
 organizer: "Jeff and Bill"
 ---
 
