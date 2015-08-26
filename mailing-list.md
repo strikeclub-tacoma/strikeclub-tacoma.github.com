@@ -18,6 +18,8 @@ To get help with the list, send email to [stikeclub+help@strikeclub-tacoma.com](
 
 **Remember**, you can only post to the mailing list from the email address that you have registered with it.  If you try posting with another address, you should receive a bounce message.
 
+**Also Remember** to check you junk mail box for messages from strikeclub@striekclub-tacoma.com.  Add the list address to your contacts in email, that is usually a good way to avoid having our messages land in your spam filder.
+
 Contact [strikeclub+owner@strikeclub-tacoma.com](mailto: strikeclub+owner@strikeclub-tacoma.com) with any issues.
 
 
