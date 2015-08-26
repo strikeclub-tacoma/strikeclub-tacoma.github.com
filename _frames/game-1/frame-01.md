@@ -3,7 +3,7 @@ layout: frame
 game_number: 1
 frame_number: 1
 
-event_date: 2015-09
+event_date: "2015-09-undetermined"
 organizer: Ryan
 ---
 
