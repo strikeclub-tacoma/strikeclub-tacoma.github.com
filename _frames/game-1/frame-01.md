@@ -15,7 +15,7 @@ organizer: Ryan
 
 ### Additional Information: (what to bring, etc.)
 
-```
+~~~
 Strike Club,
 
 A few details to get you ready for Saturday.  We will meet at Chalet Bowl in
@@ -31,4 +31,4 @@ midnight so plan on taking Uber or a cab home ideally.  Jake has offered for
 people to sleep in his chicken coup if necessary.
 
 Ryan
-```
+~~~

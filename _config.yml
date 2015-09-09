@@ -11,9 +11,7 @@ timezone: America/Los_Angeles
 #github_username:  jekyll
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: [tables, no_intra_emphasis, autolink]
+markdown: kramdown
 
 collections:
   frames:
