@@ -31,7 +31,7 @@ Strike Club,
 
 Frame 2 in t-minus five days.  Here are tidbits, new and old:
 
-1.  We will meet in front of the Pantages theater at 4PM sharp.  Don't be late.  If you are, text me at 253-312-4739.  Our programming begins at 4:15PM, and nuns don't wait for anyone...
+1.  We will meet in front of the Pantages theater at 4PM sharp.  Don't be late.  If you are, text me at ###-###-####.  Our programming begins at 4:15PM, and nuns don't wait for anyone...
 
 2.  Bring a change of clothes that can get really, really dirty...perhaps to the point of being trashed (literally).  Consider having fun with this outfit; don't just go for the junker clothes.  A tuxedo could play really well. David, that sundress you love to wear would be smashing.  Anyway, explore the clothing space, but know that what you bring might not get worn again...by anyone.
 
