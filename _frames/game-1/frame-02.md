@@ -22,3 +22,27 @@ The night should wrap up around 10:30PM with an optional extension for those not
 Dinner will be provided, but for those of us with healthier appetites, you might want to eat something before you arrive.
 
 I need $100 from Chuck and David (and our bench player).  Any chance I could get the money this week?
+
+Update: 
+
+~~~
+Strike Club,
+
+Frame 2 in t-minus five days.  Here are tidbits, new and old:
+
+1.  We will meet in front of the Pantages theater at 4PM sharp.  Don't be late.  If you are, text me at 253-312-4739.  Our programming begins at 4:15PM, and nuns don't wait for anyone...
+
+2.  Bring a change of clothes that can get really, really dirty...perhaps to the point of being trashed (literally).  Consider having fun with this outfit; don't just go for the junker clothes.  A tuxedo could play really well.  David, that sundress you love to wear would be smashing.  Anyway, explore the clothing space, but know that what you bring might not get worn again...by anyone.
+
+3.  James Stowe joins us from "the bench" for this one.  James is a ridiculous artist (here's proof) and a great guy.  Let's give him a SC welcome on Saturday.
+
+4.  Ryan gave a little homework for Frame 1, and I feel compelled to do the same.  I'd like everyone to show with a working definition of these 12 adjectives.  (God help us.)
+
+5.  The weather doesn't look like it will cooperate.  Umbrellas and cleats?  Not be a bad idea if it's raining.
+
+6.  There will be food but not a ton.  There will be drinks (alcoholic and non-) but not a ton.  Just saying.
+
+One more reminder coming on Friday.  Send any questions my way.
+
+Jake
+~~~
