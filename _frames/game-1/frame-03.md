@@ -10,7 +10,8 @@ organizer: John
 
 ### Details:
 - Date: {{ page.event_date }}
-- Time:
-- Meeting Place:
+- Time: 3:27 PM
+- Meeting Place: To be announced
 
 ### Additional Information: (what to bring, etc.)
+- Bring a bike helmet
