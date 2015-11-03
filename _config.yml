@@ -20,3 +20,9 @@ collections:
     defaults:
       values:
         layout: frame
+  ideas:
+    output: true
+    permalink: /:path/
+    defaults:
+      values:
+        layout: ideas
