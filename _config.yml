@@ -1,6 +1,6 @@
 # Site settings
 title: Strike Club
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   What happens in Strike Club, stays in Strike Club
 baseurl: "" # the subpath of your site, e.g. /blog/
