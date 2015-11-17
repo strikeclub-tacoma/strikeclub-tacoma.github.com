@@ -18,6 +18,7 @@ organizer: "Jeff and Bill"
 Please email your loose fitting t-shirt size to jdbarber@gmail.com
 
 Also, this is a double frame - and we haven't collected all the money yet.  Please send your cash as soon as possible using a method below:
+
 - Paypal to jdbarber@gmail.com
 - Square to $thewellington
 - Debit card to https://cash.me/$thewellington
