@@ -21,4 +21,4 @@ Also, this is a double frame - and we haven't collected all the money yet.  Plea
 
 - Paypal to jdbarber@gmail.com
 - Square to $thewellington
-- Debit card to https://cash.me/$thewellington
+- Debit card to [https://cash.me/$thewellington](https://cash.me/$thewellington)
