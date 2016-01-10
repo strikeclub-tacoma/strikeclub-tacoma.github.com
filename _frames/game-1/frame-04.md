@@ -19,7 +19,13 @@ organizer: "Jeff and Bill"
 ~~~
 Commander Bond, 
 
-We are go for Operation: License to Thrill. You are expected to infiltrate to the target zone on 1.16.16, at precisely 13.30hrs. Failure to do so may have grave consequences for global political stability. Park where you can leave your car until late. Wear comfortable clothing in which you can be active. Intelligence indicates encounters will be indoors so you needn't be overly concerned with cold weather gear. Q will provide all other mission specific equipment. Expect to be on active service until approximately 23.00hrs.  
+We are go for Operation: License to Thrill. You are expected to infiltrate
+the target zone on 1.16.16, at precisely 13.30hrs. Failure to do so may have
+grave consequences for global political stability. Park where you can leave
+your car until late. Wear comfortable clothing in which you can be active.
+Intelligence indicates encounters will be indoors so you needn't be overly
+concerned with cold weather gear. Q will provide all other mission specific
+equipment. Expect to be on active service until approximately 23.00hrs.  
 
 For additional intel, please refer to this document. 
 
