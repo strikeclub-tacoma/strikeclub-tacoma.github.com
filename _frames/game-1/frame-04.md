@@ -27,7 +27,7 @@ Intelligence indicates encounters will be indoors so you needn't be overly
 concerned with cold weather gear. Q will provide all other mission specific
 equipment. Expect to be on active service until approximately 23.00hrs.  
 
-For additional intel, please refer to this document. 
+For additional intel, please refer to this [document](https://www.youtube.com/watch?v=ht8gzvrsDfE).
 
 -M-
 
