@@ -11,7 +11,7 @@ organizer: "Jeff and Bill"
 ### Details:
 - Date: {{ page.event_date }}
 - Time: 1:30 PM sharp - late players will need to contact Jeff or Bill
-- Meeting Place: Roof of the southern parking structure at the Tacoma bus station.
+- Meeting Place: Roof of the [southern parking structure](http://www.strikeclub-tacoma.com/assets/1-4_Target_Zone.pdf) at the Tacoma bus station.
 
 ### Additional Information: (what to bring, etc.)
 
@@ -25,6 +25,6 @@ For additional intel, please refer to this [document](https://www.youtube.com/wa
 
 -M-
 
-Target Zone: Roof of the southern parking structure at the Tacoma bus station (see aerial reconnaissance below).
+Target Zone: Roof of the [southern parking structure](http://www.strikeclub-tacoma.com/assets/1-4_Target_Zone.pdf) at the Tacoma bus station.
 Date: 1.16.16
 Time: 13.30hrs
