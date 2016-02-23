@@ -13,6 +13,12 @@ timezone: America/Los_Angeles
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-redirect-from
+  
+whitelist:
+  - jekyll-redirect-from
+  
 collections:
   frames:
     output: true
@@ -20,6 +26,12 @@ collections:
     defaults:
       values:
         layout: frame
+  players:
+    output: true
+    permalink: /:path/
+    defaults:
+      values:
+        layout: player
   ideas:
     output: true
     permalink: /:path/
