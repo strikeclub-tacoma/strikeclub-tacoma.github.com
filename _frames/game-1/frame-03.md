@@ -2,6 +2,7 @@
 layout: frame
 game_number: 1
 frame_number: 3
+theme: "Grafitti"
 
 event_date: 2015-11-14
 organizer: John
@@ -12,6 +13,7 @@ organizer: John
 - Date: {{ page.event_date }}
 - Time: 3:27 PM
 - Meeting Place: Mad Hat Tea ([1130 Commerce St, Tacoma, WA 98402](https://www.google.com/maps/place/1130+Commerce+St,+Tacoma,+WA+98402/@47.2522164,-122.44154,17z/data=!3m1!4b1!4m2!3m1!1s0x5490557553033705:0xc5af0797d1cf37f5).)
+- Theme {{ page.theme }}
 
 ### Additional Information: (what to bring, etc.)
 - A Bike Helmet or similar

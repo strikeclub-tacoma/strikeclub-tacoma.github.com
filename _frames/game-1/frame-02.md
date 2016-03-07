@@ -2,6 +2,7 @@
 layout: frame
 game_number: 1
 frame_number: 2
+theme: "(Zombie) Calendar Shoot"
 
 event_date: 2015-10-17
 organizer: Jake
@@ -12,6 +13,7 @@ organizer: Jake
 - Date: {{ page.event_date }}
 - Time: 4:00 PM
 - Meeting Place: In front of the [Pantages Theature](https://www.google.com/maps/place/Pantages+Theater/@47.2551015,-122.440179,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xbbddd330736aebb) in downtown Tacoma 
+- Theme {{ page.theme }}
 
 ### Additional Information: (what to bring, etc.)
 

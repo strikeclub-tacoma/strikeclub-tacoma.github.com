@@ -12,6 +12,7 @@ organizer: Ryan
 - Date: {{ page.event_date }}
 - Time: 5:30 PM
 - Meeting Place: Chalet Bowl - Proctor District
+- Theme: The Environemnt
 
 ### Additional Information: (what to bring, etc.)
 
