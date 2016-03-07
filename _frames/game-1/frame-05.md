@@ -13,7 +13,7 @@ organizer: Zach
 - Date: {{ page.event_date }}
 - Time: 18:00
 - Meeting Place: Zach's House
-- Theme {{ page.theme }}
+- Theme: {{ page.theme }}
 
 ### Additional Information: (what to bring, etc.)
 

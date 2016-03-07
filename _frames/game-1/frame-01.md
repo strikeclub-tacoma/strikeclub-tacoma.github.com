@@ -2,6 +2,7 @@
 layout: frame
 game_number: 1
 frame_number: 1
+theme: "The Environment"
 
 event_date: "2015-09-12"
 organizer: Ryan
@@ -12,7 +13,7 @@ organizer: Ryan
 - Date: {{ page.event_date }}
 - Time: 5:30 PM
 - Meeting Place: Chalet Bowl - Proctor District
-- Theme: The Environemnt
+- Theme: {{ page.theme }}
 
 ### Additional Information: (what to bring, etc.)
 

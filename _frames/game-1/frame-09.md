@@ -13,6 +13,6 @@ organizer: "Dave and Ben"
 - Date: {{ page.event_date }}
 - Time:
 - Meeting Place:
-- Theme {{ page.theme }}
+- Theme: {{ page.theme }}
 
 ### Additional Information: (what to bring, etc.)
