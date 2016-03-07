@@ -15,3 +15,11 @@ organizer: Brian
 
 ### Additional Information: (what to bring, etc.)
 
+### Players Unable to Attend
+
+<table>
+<tr><th>Player</th><th>Replacement</th><tr>
+<tr><td>Bill</td><td>James</td></tr>
+<tr><td>Joe</td><td> - </td></tr>
+
+</table>
