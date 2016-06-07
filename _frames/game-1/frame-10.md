@@ -4,8 +4,8 @@ game_number: 1
 frame_number: 10
 theme: 
 
-event_date: "2016-08-undetermined"
-organizer: Chuck
+event_date: "2016-08-06"
+organizer: "David and Ben"
 ---
 
 

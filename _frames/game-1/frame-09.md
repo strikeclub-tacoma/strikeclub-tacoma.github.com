@@ -11,7 +11,7 @@ organizer: "Dave and Ben"
 
 ### Details:
 - Date: {{ page.event_date }}
-- Time: 2016-05-11 9:00 - 2016-06-12 13:00
+- Time: 2016-06-11 14:00 - 23:00
 - Meeting Place:
 - Theme: {{ page.theme }}
 
